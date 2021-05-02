@@ -65,12 +65,12 @@
 >
 >Hola Folks<br>
 >Hope You're doing great.<br>
->This is a Practical File on the subject **Data and Ananlysis of Algorithms**. <br>
+>This is a Practical File on the subject **Design and Ananlysis of Algorithms**. <br>
 >**_Language used_** -> **C++**<br>
 ><br>
 >
 >```
 >```
->- I have also made a pdf for the practicals in which you could see desired output and could understand in a more better manner.
+>- _I have also made a pdf for the practicals in which you could see desired output of the respective codes and could understand in a more better manner._
 >```
 >```
