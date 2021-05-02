@@ -1,10 +1,10 @@
-> # *<div align="center">DAA PRACTICAL FILE</div>*
+> # **<div align="center">DAA PRACTICAL FILE</div>**
 >
->
->
+>```
+>```
 >
 > - ## Index
-><table>
+><table align="center">
 ><thead>
 ><tr>
 >  <th>S.no.</th>
@@ -65,9 +65,9 @@
 >
 >Hola Folks<br>
 >Hope You're doing great.<br>
->This is a Practical File on the subject *Data and Ananlysis of Algorithms*. <br>
->*Languages used* -> *C++*<br>
+>This is a Practical File on the subject **Data and Ananlysis of Algorithms**. <br>
+>**_Languages used_** -> **C++**<br>
 ><br>
 >
->
->
+>```
+>```
