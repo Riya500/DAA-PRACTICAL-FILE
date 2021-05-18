@@ -142,8 +142,5 @@ int main()
 
 	// Print the solution
 
-	return 0;
-}
-
-// This code is contributed by rathbhupendra
+	return 0;}
 
